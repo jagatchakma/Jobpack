@@ -40,7 +40,7 @@ const Statistics = () => {
                 </div>
             </section>
             {/* chart two */}
-            <section>
+            {/* <section>
                 <ResponsiveContainer width="100%" height="100%">
                     <PieChart width={400} height={400}>
                         <Pie
@@ -60,7 +60,7 @@ const Statistics = () => {
                     </PieChart>
                 </ResponsiveContainer>
 
-            </section>
+            </section> */}
         </div>
     );
 };
