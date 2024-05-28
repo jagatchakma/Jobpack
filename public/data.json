@@ -1,0 +1,89 @@
+[
+  {
+    "job_id": "1",
+    "image_url": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "product_name": "Data Scientist",
+    "company_name": "Data Analytics Solutions Ltd.",
+    "job_type": "Full Time",
+    "location": "San Francisco, CA",
+    "salary_range": "$90,000 - $120,000",
+    "job_description": "We are looking for a skilled Data Scientist to join our team...",
+    "job_responsibilities": [
+      "Analyze large datasets to extract insights and identify trends",
+      "Develop machine learning models and algorithms",
+      "Collaborate with cross-functional teams to solve complex problems",
+      "Present findings to stakeholders and make data-driven recommendations"
+    ],
+    "education_background": "Master's degree in Computer Science, Statistics, or related field",
+    "experience": "2+ years of experience in data science or related field",
+    "company_contact": {
+      "phone": "+1 (123) 456-7890",
+      "email": "contact@datasolutions.com"
+    }
+  },
+  {
+    "job_id": "2",
+    "image_url": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "product_name": "Frontend Developer",
+    "company_name": "WebTech Solutions Inc.",
+    "job_type": "Remote",
+    "location": "Remote",
+    "salary_range": "$60,000 - $90,000",
+    "job_description": "We are seeking a talented Frontend Developer to join our remote team...",
+    "job_responsibilities": [
+      "Develop responsive web applications using modern frontend frameworks",
+      "Collaborate with UI/UX designers to implement designs",
+      "Optimize applications for maximum speed and scalability",
+      "Ensure code quality and maintainability through code reviews and testing"
+    ],
+    "education_background": "Bachelor's degree in Computer Science or related field",
+    "experience": "3+ years of experience in frontend development",
+    "company_contact": {
+      "phone": "+1 (234) 567-8901",
+      "email": "hr@webtechsolutions.com"
+    }
+  },{
+    "job_id": "3",
+    "image_url": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "product_name": "Data Scientist",
+    "company_name": "Data Analytics Solutions Ltd.",
+    "job_type": "Full Time",
+    "location": "San Francisco, CA",
+    "salary_range": "$90,000 - $120,000",
+    "job_description": "We are looking for a skilled Data Scientist to join our team...",
+    "job_responsibilities": [
+      "Analyze large datasets to extract insights and identify trends",
+      "Develop machine learning models and algorithms",
+      "Collaborate with cross-functional teams to solve complex problems",
+      "Present findings to stakeholders and make data-driven recommendations"
+    ],
+    "education_background": "Master's degree in Computer Science, Statistics, or related field",
+    "experience": "2+ years of experience in data science or related field",
+    "company_contact": {
+      "phone": "+1 (123) 456-7890",
+      "email": "contact@datasolutions.com"
+    }
+  },
+  {
+    "job_id": "4",
+    "image_url": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "product_name": "Frontend Developer",
+    "company_name": "WebTech Solutions Inc.",
+    "job_type": "Remote",
+    "location": "Remote",
+    "salary_range": "$60,000 - $90,000",
+    "job_description": "We are seeking a talented Frontend Developer to join our remote team...",
+    "job_responsibilities": [
+      "Develop responsive web applications using modern frontend frameworks",
+      "Collaborate with UI/UX designers to implement designs",
+      "Optimize applications for maximum speed and scalability",
+      "Ensure code quality and maintainability through code reviews and testing"
+    ],
+    "education_background": "Bachelor's degree in Computer Science or related field",
+    "experience": "3+ years of experience in frontend development",
+    "company_contact": {
+      "phone": "+1 (234) 567-8901",
+      "email": "hr@webtechsolutions.com"
+    }
+  }
+]
